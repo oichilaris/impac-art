@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oichilaris.github.io/impac-art/sitemap.xml
